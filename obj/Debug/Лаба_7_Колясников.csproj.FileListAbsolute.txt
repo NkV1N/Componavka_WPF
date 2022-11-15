@@ -1,0 +1,48 @@
+D:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe.config
+D:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe
+D:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.pdb
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.AssemblyReference.cache
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.SuggestedBindingRedirects.cache
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.g.cs
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\App.g.cs
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.cache
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.lref
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.baml
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.g.resources
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.Properties.Resources.resources
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.GenerateResource.cache
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.CoreCompileInputs.cache
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.exe
+D:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.pdb
+E:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe.config
+E:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe
+E:\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.pdb
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.AssemblyReference.cache
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.SuggestedBindingRedirects.cache
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.g.cs
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\App.g.cs
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.cache
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.lref
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.baml
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.g.resources
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.Properties.Resources.resources
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.GenerateResource.cache
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.CoreCompileInputs.cache
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.exe
+E:\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.pdb
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe.config
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.exe
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\bin\Debug\Лаба_7_Колясников.pdb
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.AssemblyReference.cache
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.g.cs
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\App.g.cs
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.cache
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников_MarkupCompile.lref
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\MainWindow.baml
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.g.resources
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.Properties.Resources.resources
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.GenerateResource.cache
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.csproj.CoreCompileInputs.cache
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.exe
+D:\Программирование\3 курс\ТРПО\Лаба 7\Лаба_7_Колясников\obj\Debug\Лаба_7_Колясников.pdb
